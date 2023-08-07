@@ -11,7 +11,7 @@ filenames = [
     r'C:PROJECTS\logfile04.csv',
     r'C:PROJECTS\logfile05.csv',
     r'C:PROJECTS\logfile06.csv',
-	r'C:PROJECTS\logfile07.csv',
+    r'C:PROJECTS\logfile07.csv',
 ]
 
 # Create an empty list to store the DataFrames
