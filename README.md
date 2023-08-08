@@ -1,8 +1,5 @@
 # Description:
-
-
-# Features:
-
+This Python script is designed to efficiently merge data from multiple CSV log files into a single cohesive dataset. It utilizes the pandas library to manage and manipulate the CSV data.
 
 # Usage:
 1) Prerequisites. 
